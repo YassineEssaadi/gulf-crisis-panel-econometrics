@@ -1,1 +1,75 @@
-IyBUaGUgR2VvcG9saXRpY3Mgb2YgT2lsOiBBc3Nlc3NpbmcgdGhlIE1hY3JvZWNvbm9taWMgSW1wYWN0IG9mIHRoZSAyMDI2IEd1bGYgQ3Jpc2lzCgohW1JdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUi0yNzZEQzM/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXImbG9nb0NvbG9yPXdoaXRlKQohW0Vjb25vbWV0cmljc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9FY29ub21ldHJpY3MtUGFuZWxfRGF0YS1ibHVlP3N0eWxlPWZvci10aGUtYmFkZ2UpCiFbVGltZSBTZXJpZXNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVGltZV9TZXJpZXMtQVJJTUEtZ3JlZW4/c3R5bGU9Zm9yLXRoZS1iYWRnZSkKCiMjIPCfk4wgUHJvamVjdCBPdmVydmlldwpUaGlzIHByb2plY3QgaW52ZXN0aWdhdGVzIHRoZSBtYWNyb2Vjb25vbWljIHRyYW5zbWlzc2lvbiBvZiB0aGUgKipGZWJydWFyeSAyMDI2IEd1bGYgQ3Jpc2lzKiogKGEgbWFqb3IgZ2VvcG9saXRpY2FsIHNob2NrIGNhdXNpbmcgYSAyNSUgc3Bpa2UgaW4gQnJlbnQgY3J1ZGUgcHJpY2VzKSBvbiB0aHJlZSBhZHZhbmNlZCBuZXQtb2lsLWltcG9ydGluZyBlY29ub21pZXM6ICoqRnJhbmNlLCBHZXJtYW55LCBhbmQgSXRhbHkgKEVVMykqKi4gCgpVc2luZyBhICoqUGFuZWwgRGF0YSBFY29ub21ldHJpY3MqKiBhcHByb2FjaCBjb21iaW5lZCB3aXRoICoqQVJJTUEgZm9yZWNhc3RpbmcqKiwgdGhlIHN0dWR5IGlzb2xhdGVzIHRoZSAiY3Jpc2lzIGVmZmVjdCIgZnJvbSB1bmRlcmx5aW5nIGVjb25vbWljIHRyZW5kcywgZm9jdXNpbmcgb24gaG93IG9pbCBwcmljZSBzaG9ja3MgcGFzcyB0aHJvdWdoIHRvIGluZmxhdGlvbiAoQ1BJKSBhbmQgaW5kdXN0cmlhbCBwcm9kdWN0aW9uIChJUEkpLCBhbmQgaG93IG1vbmV0YXJ5IHBvbGljeSAoaW50ZXJlc3QgcmF0ZXMpIHJlc3BvbmRzLgoKIyMg8J+OryBLZXkgT2JqZWN0aXZlcwoxLiAqKlF1YW50aWZ5IHRoZSBPaWwgUGFzcy1UaHJvdWdoOioqIE1lYXN1cmUgaG93IHRoZSAyNSUgQnJlbnQgcHJpY2Ugc2hvY2sgdHJhbnNsYXRlcyBpbnRvIGRvbWVzdGljIGluZmxhdGlvbiBhY3Jvc3MgdGhlIEVVMy4KMi4gKipBc3Nlc3MgSW5kdXN0cmlhbCBJbXBhY3Q6KiogRXZhbHVhdGUgdGhlIGNvbnRyYWN0aW9uIGluIEluZHVzdHJpYWwgUHJvZHVjdGlvbiBJbmRpY2VzIChJUEkpIGR1ZSB0byBoaWdoZXIgZW5lcmd5IGlucHV0IGNvc3RzLgozLiAqKkV2YWx1YXRlIFBvbGljeSBSZXNwb25zZToqKiBBbmFseXplIHRoZSBFdXJvcGVhbiBDZW50cmFsIEJhbmsncyAoRUNCKSBtb25ldGFyeSBwb2xpY3kgcmVhY3Rpb24gZnVuY3Rpb24gdG8gaW1wb3J0ZWQgaW5mbGF0aW9uLgo0LiAqKkFSSU1BIEZvcmVjYXN0aW5nOioqIFRvIGdlbmVyYXRlIHRoZSBub24tY3Jpc2lzIGNvdW50ZXJmYWN0dWFsIGJhc2VsaW5lIGZvciBRMiAyMDI2LgoKIyMg8J+TiCBEYXRhICYgTWV0aG9kb2xvZ3kKCiMjIyBEYXRhc2V0Ci0gKipTY29wZToqKiBGcmFuY2UsIEdlcm1hbnksIEl0YWx5IChNYWluIFBhbmVsKSArIFVTLCBTYXVkaSBBcmFiaWEsIFR1cmtleSAoU3VwcGxlbWVudGFyeSBDcm9zcy1Hcm91cCBDb21wYXJpc29uKS4KLSAqKlRpbWVmcmFtZToqKiBKYW51YXJ5IDIwMjMg4oCTIEp1bmUgMjAyNiAoNDIgbW9udGhzKS4KLSAqKkZyZXF1ZW5jeToqKiBNb250aGx5LgotICoqVmFyaWFibGVzOioqCiAgLSBgY3BpYDogQ29uc3VtZXIgUHJpY2UgSW5kZXggKEluZmxhdGlvbiBwcm94eSkKICAtIGBpcGlgOiBJbmR1c3RyaWFsIFByb2R1Y3Rpb24gSW5kZXggKEdyb3d0aCBwcm94eSkKICAtIGBicmVudGA6IEJyZW50IENydWRlIE9pbCBQcmljZSAoVVNEL2JhcnJlbCkKICAtIGBwb2xpY3lfcmF0ZWA6IENlbnRyYWwgQmFuayBQb2xpY3kgUmF0ZXMgKCUpCiAgLSBgbmVlcmA6IE5vbWluYWwgRWZmZWN0aXZlIEV4Y2hhbmdlIFJhdGUKICAtIGB2aXhgOiBWb2xhdGlsaXR5IEluZGV4IChHbG9iYWwgdW5jZXJ0YWludHkgcHJveHkpCgojIyMgRWNvbm9tZXRyaWMgTW9kZWxzCjEuICoqUGFuZWwgVW5pdCBSb290IFRlc3RzOioqIEltLVBlc2FyYW4tU2hpbiAoSVBTKSB0ZXN0cyB0byBjaGVjayBmb3Igc3RhdGlvbmFyaXR5LgoyLiAqKkZpeGVkIEVmZmVjdHMgKEZFKSAmIFJhbmRvbSBFZmZlY3RzIChSRSkgTW9kZWxzOioqIFRvIGNvbnRyb2wgZm9yIHVub2JzZXJ2ZWQgY291bnRyeS1zcGVjaWZpYyBoZXRlcm9nZW5laXR5LgozLiAqKkhhdXNtYW4gVGVzdDoqKiBUbyBzZWxlY3QgdGhlIGFwcHJvcHJpYXRlIHBhbmVsIHNwZWNpZmljYXRpb24gKEZFIHZzLiBSRSkuCjQuICoqQVJJTUEgRm9yZWNhc3Rpbmc6KiogVG8gZ2VuZXJhdGUgdGhlIG5vbi1jcmlzaXMgY291bnRlcmZhY3R1YWwgYmFzZWxpbmUgZm9yIFEyIDIwMjYuCgojIyDwn5qAIEtleSBGaW5kaW5ncwotICoqU3Ryb25nIE9pbC10by1JbmZsYXRpb24gTGluazoqKiBUaGUgRml4ZWQgRWZmZWN0cyBtb2RlbCByZXZlYWxzIGEgaGlnaGx5IHNpZ25pZmljYW50IHBvc2l0aXZlIHJlbGF0aW9uc2hpcCBiZXR3ZWVuIEJyZW50IHByaWNlcyBhbmQgQ1BJICgkJFIeMiA9IDAuNzc0JCQpLgotICoqRXhjaGFuZ2UgUmF0ZSBCdWZmZXI6KiogVGhlIE5vbWluYWwgRWZmZWN0aXZlIEV4Y2hhbmdlIFJhdGUgKE5FRVIpIGFjdHMgYXMgYSBjcnVjaWFsIHNob2NrIGFic29yYmVyICgkJFxiZXRhID0gMC45MDgsIHAgPCAwLjAxJCQpLgotICoqSW5kdXN0cmlhbCBDb250cmFjdGlvbjoqKiBBIHN0YXRpc3RpY2FsbHkgc2lnbmlmaWNhbnQgbmVnYXRpdmUgaW1wYWN0IG9mIG9pbCBwcmljZXMgb24gSVBJIHdhcyBvYnNlcnZlZCwgY29uZmlybWluZyB0aGUgY29zdC1wdXNoIHNob2NrIG9uIG1hbnVmYWN0dXJpbmcuCi0gKipQb2xpY3kgRGlsZW1tYToqKiBUaGUgbW9kZWxzIGhpZ2hsaWdodCB0aGUgY2VudHJhbCBiYW5rJ3MgdHJhZGUtb2ZmIGJldHdlZW4gZmlnaHRpbmcgaW1wb3J0ZWQgaW5mbGF0aW9uIGFuZCBzdXBwb3J0aW5nIGNvbnRyYWN0aW5nIGluZHVzdHJpYWwgb3V0cHV0LgoKIyMg8J+TgiBSZXBvc2l0b3J5IFN0cnVjdHVyZQpgYGB0ZXh0CuKUnOKUgOKUgCBkYXRhLwrilIIgICDilJzilIDilIAgbWFpbl9wYW5lbF9mdWxsLmNzdiAgICAgICAgICMgRVUzIGRhdGFzZXQgKEZyYW5jZSwgR2VybWFueSwgSXRhbHkpCuKUgiAgIOKUlOKUgOKUgCBwYW5lbF9kYXRhXzZjb3VudHJ5LmNzdiAgICAgIyBTdXBwbGVtZW50YXJ5IGRhdGFzZXQgKEVVMyArIFVTLCBTQSwgVFIpCuKUnOKUgOKUgCBzY3JpcHRzLwrilIIgICDilJTilIDilIAgZXUzX2FuYWx5c2lzX2h5YnJpZF9GSU5BTC5SICMgTWFpbiBSIHNjcmlwdCAoUGFuZWwgcmVncmVzc2lvbnMsIEFSSU1BLCBwbG90cykK4pSc4pSA4pSAIHJlcG9ydC8K4pSCICAg4pSc4pSA4pSAgRVUzX01ldGhvZG9sb2d5X1JlcG9ydF9GSU5BTC5kb2N4ICMgRGV0YWlsZWQgbWV0aG9kb2xvZ3kgZG9jdW1lbnQK4pSCICAg4pSU4pSA4pSAgUkVBRE1FLm1kICAgICAgICAgICAgICAgICAgICMgTGluayB0byBkb3dubG9hZCB0aGUgZnVsbCBQREYgcmVwb3J0CuKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICAgICAgICAgICAgICMgUHJvamVjdCBvdmVydmlldwrilJTilIDilIAgTElDRU5TRSAgICAgICAgICAgICAgICAgICAgICAgICAjIE1JVCBMaWNlbnNlCmBgYAoKIyMg8J+boO+4jyBIb3cgdG8gUnVuIHRoZSBBbmFseXNpcwoxLiBDbG9uZSB0aGUgcmVwb3NpdG9yeToKICAgYGBgYmFzaAogICBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL1lhc3NpbmVFc3NhYWRpL2d1bGYtY3Jpc2lzLXBhbmVsLWVjb25vbWV0cmljcy5naXQKICAgYGBgCjIuIE9wZW4gYHNjcmlwdHMvZXUzX2FuYWx5c2lzX2h5YnJpZF9GSU5BTC5SYCBpbiBSU3R1ZGlvLgozLiBFbnN1cmUgdGhlIHJlcXVpcmVkIHBhY2thZ2VzIGFyZSBpbnN0YWxsZWQgKGBkcGx5cmAsIGBwbG1gLCBgZm9yZWNhc3RgLCBgZ2dwbG90MmAsIGBzdGFyZ2F6ZXJgLCBldGMuKS4gKk5vdGU6IERvIG5vdCBsb2FkIGBwbHlyYCBhcyBpdCBjb25mbGljdHMgd2l0aCBgZHBseXJgLioKNC4gU2V0IHlvdXIgd29ya2luZyBkaXJlY3RvcnkgdG8gdGhlIHByb2plY3Qgcm9vdC4KNS4gUnVuIHRoZSBzY3JpcHQgdG8gcmVwcm9kdWNlIHRoZSBwYW5lbCByZWdyZXNzaW9ucywgQVJJTUEgZm9yZWNhc3RzLCBhbmQgZ2VuZXJhdGUgdGhlIDIzIGFuYWx5dGljYWwgZmlndXJlcy4KCiMjIPCfk4QgRnVsbCBSZXBvcnQKVGhlIGNvbXByZWhlbnNpdmUgMjUtcGFnZSBlY29ub21ldHJpYyByZXBvcnQgY29udGFpbmluZyBhbGwgdGhlb3JldGljYWwgZnJhbWV3b3JrcywgcmVncmVzc2lvbiB0YWJsZXMsIGFuZCAyMyBmaWd1cmVzIGlzIGF2YWlsYWJsZSBmb3IgZG93bmxvYWQuIER1ZSB0byBmaWxlIHNpemUgbGltaXRzLCBpdCBpcyBob3N0ZWQgZXh0ZXJuYWxseToK8J+RiSAqKltEb3dubG9hZCBGdWxsIFBERiBSZXBvcnRdKGh0dHBzOi8vaW1zZXJ2ZXIudGVhbWlseS5haS9pbV9hcGkvb2JqZWN0LzgyNTY1MDM0NDA0NjU0MjkvOTBkM2QyMTAtN2RiMC00ZTdjLWJhNjMtYmRlNDcxOWEwNTVjLnBkZikqKgoKIyMg8J+RpCBBdXRob3IKKipZYXNzaW5lIEVzc2FhZGkqKgotIFtMaW5rZWRJbl0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3lhc3NpbmUtZXNzYWFkaS8pCi0gW0dpdEh1Yl0oaHR0cHM6Ly9naXRodWIuY29tL1lhc3NpbmVFc3NhYWRpKQo=
+# The Geopolitics of Oil: Assessing the Macroeconomic Impact of the 2026 Gulf Crisis
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Econometrics](https://img.shields.io/badge/Econometrics-Panel_Data-blue?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time_Series-ARIMA-green?style=for-the-badge)
+
+## 📌 Project Overview
+This project investigates the macroeconomic transmission of the **February 2026 Gulf Crisis** (a major geopolitical shock causing a 25% spike in Brent crude prices) on three advanced net-oil-importing economies: **France, Germany, and Italy (EU3)**. 
+
+Using a **Panel Data Econometrics** approach combined with **ARIMA forecasting**, the study isolates the "crisis effect" from underlying economic trends, focusing on how oil price shocks pass through to inflation (CPI) and industrial production (IPI), and how monetary policy (interest rates) responds.
+
+## 🎯 Key Objectives
+1. **Quantify the Oil Pass-Through:** Measure how the 25% Brent price shock translates into domestic inflation across the EU3.
+2. **Assess Industrial Impact:** Evaluate the contraction in Industrial Production Indices (IPI) due to higher energy input costs.
+3. **Evaluate Policy Response:** Analyze the European Central Bank's (ECB) monetary policy reaction function to imported inflation.
+4. **ARIMA Forecasting:** To generate the non-crisis counterfactual baseline for Q2 2026.
+
+## 📈 Data & Methodology
+
+### Dataset
+- **Scope:** France, Germany, Italy (Main Panel) + US, Saudi Arabia, Turkey (Supplementary Cross-Group Comparison).
+- **Timeframe:** January 2023 – June 2026 (42 months).
+- **Frequency:** Monthly.
+- **Variables:**
+  - `cpi`: Consumer Price Index (Inflation proxy)
+  - `ipi`: Industrial Production Index (Growth proxy)
+  - `brent`: Brent Crude Oil Price (USD/barrel)
+  - `policy_rate`: Central Bank Policy Rates (%)
+  - `neer`: Nominal Effective Exchange Rate
+  - `vix`: Volatility Index (Global uncertainty proxy)
+
+### Econometric Models
+1. **Panel Unit Root Tests:** Im-Pesaran-Shin (IPS) tests to check for stationarity.
+2. **Fixed Effects (FE) & Random Effects (RE) Models:** To control for unobserved country-specific heterogeneity.
+3. **Hausman Test:** To select the appropriate panel specification (FE vs. RE).
+4. **ARIMA Forecasting:** To generate the non-crisis counterfactual baseline for Q2 2026.
+
+## 🚀 Key Findings
+- **Strong Oil-to-Inflation Link:** The Fixed Effects model reveals a highly significant positive relationship between Brent prices and CPI (R² = 0.774).
+- **Exchange Rate Buffer:** The Nominal Effective Exchange Rate (NEER) acts as a crucial shock absorber (β = 0.908, p < 0.01).
+- **Industrial Contraction:** A statistically significant negative impact of oil prices on IPI was observed, confirming the cost-push shock on manufacturing.
+- **Policy Dilemma:** The models highlight the central bank's trade-off between fighting imported inflation and supporting contracting industrial output.
+
+## 📂 Repository Structure
+```text
+├── data/
+│   ├── main_panel_full.csv         # EU3 dataset (France, Germany, Italy)
+│   └── panel_data_6country.csv     # Supplementary dataset (EU3 + US, SA, TR)
+├── scripts/
+│   └── eu3_analysis_hybrid_FINAL.R # Main R script (Panel regressions, ARIMA, plots)
+├── report/
+│   ├── EU3_Methodology_Report_FINAL.docx # Detailed methodology document
+│   └── README.md                  # Link to download the full PDF report
+├── README.md                       # Project overview
+└── LICENSE                         # MIT License
+```
+
+## 🛠️ How to Run the Analysis
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YassineEssaadi/gulf-crisis-panel-econometrics.git
+   ```
+2. Open `scripts/eu3_analysis_hybrid_FINAL.R` in RStudio.
+3. Ensure the required packages are installed (`dplyr`, `plm`, `forecast`, `ggplot2`, `stargazer`, etc.). *Note: Do not load `plyr` as it conflicts with `dplyr`.*
+4. Set your working directory to the project root.
+5. Run the script to reproduce the panel regressions, ARIMA forecasts, and generate the 23 analytical figures.
+
+## 📄 Full Report
+The comprehensive 25-page econometric report containing all theoretical frameworks, regression tables, and 23 figures is available for download. Due to file size limits, it is hosted externally:
+👉 **[Download Full PDF Report](https://imserver.teamily.ai/im_api/object/8256503440465429/90d3d210-7db0-4e7c-ba63-bde4719a055c.pdf)**
+
+## 👤 Author
+**Yassine Essaadi**
+- [LinkedIn](https://www.linkedin.com/in/yassine-essaadi/)
+- [GitHub](https://github.com/YassineEssaadi)

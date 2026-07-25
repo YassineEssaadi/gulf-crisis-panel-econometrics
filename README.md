@@ -69,7 +69,3 @@ Using a **Panel Data Econometrics** approach combined with **ARIMA forecasting**
 The comprehensive 25-page econometric report containing all theoretical frameworks, regression tables, and 23 figures is available for download. Due to file size limits, it is hosted externally:
 👉 **[Download Full PDF Report](https://imserver.teamily.ai/im_api/object/8256503440465429/90d3d210-7db0-4e7c-ba63-bde4719a055c.pdf)**
 
-## 👤 Author
-**Yassine Essaadi**
-- [LinkedIn](https://www.linkedin.com/in/yassine-essaadi/)
-- [GitHub](https://github.com/YassineEssaadi)

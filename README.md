@@ -66,6 +66,5 @@ Using a **Panel Data Econometrics** approach combined with **ARIMA forecasting**
 5. Run the script to reproduce the panel regressions, ARIMA forecasts, and generate the 23 analytical figures.
 
 ## 📄 Full Report
-The comprehensive 25-page econometric report containing all theoretical frameworks, regression tables, and 23 figures is available for download. Due to file size limits, it is hosted externally:
-👉 **[Download Full PDF Report](https://imserver.teamily.ai/im_api/object/8256503440465429/90d3d210-7db0-4e7c-ba63-bde4719a055c.pdf)**
+The comprehensive 25-page econometric report containing all theoretical frameworks, regression tables, and 23 figures is available in the report folder.
 

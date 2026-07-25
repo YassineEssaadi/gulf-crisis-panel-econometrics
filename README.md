@@ -1,11 +1,11 @@
 # 🛢️ Macroeconomic Impact of the 2026 Gulf Crisis
 ### A Panel Data Analysis of EU3 Countries (France, Germany, Italy)
 
-[![R](https://img.shields.io/badge/Language-R-276DC3?style=flat-square&logo=r)](https://www.r-project.org/)
-[![Panel Data](https://img.shields.io/badge/Method-Panel%20Data%20Econometrics-blue?style=flat-square)](https://en.wikipedia.org/wiki/Panel_data)
-[![ARIMA](https://img.shields.io/badge/Forecasting-ARIMA-orange?style=flat-square)](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
-[![Academic](https://img.shields.io/badge/Institution-Tunis%20Business%20School-red?style=flat-square)](https://www.tbs.u-tunis.tn/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[[![R](https://img.shields.io/badge/Language-R-276DC3?style=flat-square&logo=r)](https://www.r-project.org/)]
+[[![Panel Data](https://img.shields.io/badge/Method-Panel%20Data%20Econometrics-blue?style=flat-square)](https://en.wikipedia.org/wiki/Panel_data)]
+[[![ARIMA](https://img.shields.io/badge/Forecasting-ARIMA-orange?style=flat-square)](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)]
+[[![Academic](https://img.shields.io/badge/Institution-Tunis%20Business%20School-red?style=flat-square)](https://www.tbs.u-tunis.tn/)]
+[[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)]
 
 > **Course:** Advanced Econometrics | **Institution:** Tunis Business School | **Date:** May 2026
 
@@ -18,8 +18,7 @@
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Key Results](#key-results)
-- [Repository Structure](#repository-structure)
-- [How to Reproduce](#how-to-reproduce)
+- [Repository Contents](#repository-contents)
 - [Authors](#authors)
 
 ---
@@ -47,7 +46,7 @@ The three post-crisis months (March–May 2026) are observed data; the subsequen
 | Feature | Details |
 |---|---|
 | **Countries (Main Panel)** | France, Germany, Italy (EU3) |
-| **Countries (Supplementary)** | USA, Saudi Arabia, Turkey |
+| **Countries (Supplementary)** | USA%�Saudi Arabia, Turkey |
 | **Time Period** | January 2023 – June 2026 (42 months) |
 | **Observations** | 126 (EU3 panel) / 252 (full dataset) |
 | **Frequency** | Monthly |
@@ -62,7 +61,7 @@ The three post-crisis months (March–May 2026) are observed data; the subsequen
 | `oil_pct_change` | % change | EIA | Month-on-month Brent crude change (USD/bbl) |
 | `ln_neer` | log(NEER) | BIS | Nominal Effective Exchange Rate |
 | `policy_rate` | Level (%) | ECB / FRED | ECB main refinancing rate |
-| `vix` | Level | CBOE / FRED | Volatility Index (global risk sentiment) |
+| `vix` | Level | CBOE/ FRED | Volatility Index (global risk sentiment) |
 | `post_crisis` | Dummy | — | 1 if date ≥ 2026-03-01 |
 
 **Data Sources:** OECD, Eurostat, EIA, BIS, FRED
@@ -107,37 +106,37 @@ Where `α_i` captures country fixed effects and `γ_m` are month dummies.
 
 ## 📈 Key Results
 
-### Inflation Model (CPI) — R² = 0.774 (FE)
+### Inflation Model (CPI) -- R² = 0.774 (FE)
 
 | Finding | Value | Significance |
 |---|---|---|
-| **Exchange-rate pass-through** (ln_neer) | **0.908** | p < 2e-16 ⭐⭐⭐ |
+| **Exchange-rate pass-through+* (ln_neer) | **0.908** | p < 2e-16 *** |
 | Oil-price pass-through (oil_pct_change) | 2.58e-06 | p = 0.982 (insignificant) |
-| VIX financial-conditions channel | 0.0003 | p < 2e-16 ⭐⭐⭐ |
+| VIX financial-conditions channel | 0.0003 | p < 2e-16 *** |
 | Post-crisis dummy | -0.006 | p = 0.372 (insignificant) |
 
-> 💡 **Key insight:** A 1% appreciation of the NEER reduces log(CPI) by ~0.91%. Direct oil-to-inflation pass-through is statistically undetectable.
+> 💡 **Key insight:** A 1% appreciation of the NEER reduces log(CPI) ~0.91%. Direct oil-to-inflation pass-through is statistically undetectable.
 
-### Industrial Production Model (IPI) — R² = 0.649 (FE + Month Dummies)
+### Industrial Production Model (IPI) -- R² = 0.649 (FE + Month Dummies)
 
 | Finding | Value | Significance |
 |---|---|---|
-| **August shutdown dummy** | **-0.245** | p = 0.003 ⭐⭐⭐ |
-| March dummy | +0.082 | p < 0.001 ⭐⭐⭐ |
-| Simple FE (no month dummies) | R² = 0.071 | — |
-| FE + Month Dummies | R² = 0.649 | — |
+| **August shutdown dummy** | **-0.245** | p = 0.003 *** |
+| March dummy | +0.082 | p < 0.001 *** |
+| Simple FE (no month dummies) | R² = 0.071 | -- |
+| FE + Month Dummies | R² = 0.649 | -- |
 
-> 💡 **Key insight:** Seasonality (European summer shutdown) is the dominant driver of IPI variation — far more important than the crisis itself.
+> 💡 **Key insight:** Seasonality (European summer shutdown) is the dominant driver of IPI variation -- far more important than the crisis itself.
 
 ### Country-Level Heterogeneity (NEER Sensitivity)
 
 | Country | NEER Coefficient | Interpretation |
 |---|---|---|
-| 🇩🇪 Germany | **1.14** | Most sensitive to euro appreciation |
-| 🇫🇷 France | 1.02 | Intermediate |
-| 🇮🇹 Italy | 0.62 | Least sensitive |
+| Germany | **1.14** | Most sensitive to euro appreciation |
+| France | 1.02 | Intermediate |
+| Italy | 0.62 | Least sensitive |
 
-### ARIMA Forecast (April–June 2026)
+### ARIMA Forecast (April--June 2026)
 
 - Brent crude stabilizes around **$103/barrel**
 - CPI trend continues upward with no dramatic break
@@ -145,99 +144,18 @@ Where `α_i` captures country fixed effects and `γ_m` are month dummies.
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Contents
 
 ```
 gulf-crisis-panel-econometrics/
 │
-├── 📄 README.md
-├── 📄 report/
-│   └── econometrics_report.pdf          # Full academic report
-│
-├── 📊 data/
-│   ├── raw/
-│   │   ├── cpi_eu3.csv                  # CPI data (Eurostat)
-│   │   ├── ipi_eu3.csv                  # IPI data (Eurostat)
-│   │   ├── brent_oil.csv                # Brent crude (EIA)
-│   │   ├── neer_bis.csv                 # NEER (BIS)
-│   │   ├── ecb_policy_rate.csv          # ECB rate (FRED)
-│   │   └── vix.csv                      # VIX (FRED)
-│   └── processed/
-│       ├── panel_eu3.csv                # Main balanced panel (126 obs)
-│       └── panel_full.csv               # Full dataset (252 obs)
-│
-├── 📝 scripts/
-│   ├── 01_data_collection.R             # Data download & merging
-│   ├── 02_eda.R                         # Exploratory data analysis
-│   ├── 03_unit_root_tests.R             # LLC and IPS tests
-│   ├── 04_panel_regressions.R           # POLS, FE, RE, TWFE models
-│   ├── 05_robust_se.R                   # Arellano HC3 & vcovDC
-│   ├── 06_arima_forecasting.R           # ARIMA models & LOCF
-│   ├── 07_country_heterogeneity.R       # Country-level OLS
-│   └── 08_plots.R                       # All figures
-│
-├── 📊 figures/
-│   ├── fig01_brent_oil_price.png
-│   ├── fig02_log_cpi_faceted.png
-│   ├── fig03_log_cpi_overlaid.png
-│   ├── fig04_log_ipi_faceted.png
-│   ├── fig05_ecb_policy_rate.png
-│   ├── fig06_vix_index.png
-│   ├── fig07_log_neer.png
-│   ├── fig08_oil_pct_change.png
-│   ├── fig09_correlation_matrix.png
-│   ├── fig10_boxplot_cpi.png
-│   ├── fig11_boxplot_ipi.png
-│   ├── fig12_pre_post_crisis_cpi.png
-│   ├── fig13_scatter_cpi_oil.png
-│   └── fig18_coef_plot_fe_cpi.png
-│
-└── 📋 tables/
-    ├── table1_variable_definitions.csv
-    ├── table2_descriptive_stats.csv
-    ├── table3_unit_root_tests.csv
-    ├── table4_cpi_regression.csv
-    └── table5_ipi_regression.csv
+├── README.md                        # This file
+├── LICENSE                            # MIT License
+└── report/
+    └── econometrics_report.pdf           # Full academic report (PDF)
 ```
 
----
-
-## ▶️ How to Reproduce
-
-### Prerequisites
-
-```r
-# Install required R packages
-install.packages(c(
-  "plm",        # Panel data models
-  "lmtest",     # Hypothesis testing
-  "sandwich",   # Robust standard errors
-  "forecast",   # ARIMA forecasting
-  "ggplot2",    # Visualization
-  "dplyr",      # Data manipulation
-  "tidyr",      # Data reshaping
-  "zoo",        # LOCF imputation
-  "corrplot"    # Correlation matrix
-))
-```
-
-### Run the Analysis
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/gulf-crisis-panel-econometrics.git
-cd gulf-crisis-panel-econometrics
-
-# Run scripts in order
-Rscript scripts/01_data_collection.R
-Rscript scripts/02_eda.R
-Rscript scripts/03_unit_root_tests.R
-Rscript scripts/04_panel_regressions.R
-Rscript scripts/05_robust_se.R
-Rscript scripts/06_arima_forecasting.R
-Rscript scripts/07_country_heterogeneity.R
-Rscript scripts/08_plots.R
-```
+> **Note:** This repository contains the academic report PDF. The underlying R scripts, raw data files, and figures described in the report are not included in this public repository. The full methodology and results are documented in the report.
 
 ---
 
@@ -252,18 +170,18 @@ Rscript scripts/08_plots.R
 
 > All authors contributed equally to every stage of this project.
 
-**Institution:** Tunis Business School  
-**Course:** Advanced Econometrics  
-**Academic Year:** 2025–2026
+**Institution:** Tunis Business School
+**Course:** Advanced Econometrics
+**Academic Year:** 2025--2026
 
 ---
 
 ## 📚 References
 
-- Hamilton, J.D. (1983). Oil and the macroeconomy since World War II. *Journal of Political Economy*, 91(2), 228–248.
-- Hooker, M.A. (2002). Are oil shocks inflationary? *Journal of Money, Credit and Banking*, 34(2), 540–561.
-- Kilian, L. (2008). The economic effects of energy price shocks. *Journal of Economic Literature*, 46(4), 871–909.
-- Pesaran, M.H. (2006). Estimation and inference in large heterogeneous panels. *Econometrica*, 74(4), 967–1012.
+- Hamilton, J.D. (1983). Oil and the macroeconomy since World War II. *Journal of Political Economy*, 91(2), 228--248.
+- Hooker, M.A. (2002). Are oil shocks inflationary? *Journal of Money, Credit and Banking*, 34(2), 540--561.
+- Kilian, L. (2008). The economic effects of energy price shocks. *Journal of Economic Literature*, 46(4), 871--909.
+- Pesaran, M.H. (2006). Estimation and inference in large heterogeneous panels. *Econometrica*, 74(4), 967--1012.
 - Baltagi, B.H. (2021). *Econometric Analysis of Panel Data* (6th ed.). Springer.
 
 ---

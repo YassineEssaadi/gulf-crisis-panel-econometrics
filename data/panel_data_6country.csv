@@ -1,0 +1,235 @@
+country,date,group,development,oil_balance,cpi,ipi,brent,policy_rate,vix,neer
+France,2023-01,Advanced_Net_Importer,Advanced,Net_Importer,117.22,102.0044179006791,82.5,2.5,20.17,100.2
+France,2023-02,Advanced_Net_Importer,Advanced,Net_Importer,118.55,98.86279964002294,82.59,3.0,20.12,100.23
+France,2023-03,Advanced_Net_Importer,Advanced,Net_Importer,119.76,110.349341405547,78.43,3.5,21.64,100.42
+France,2023-04,Advanced_Net_Importer,Advanced,Net_Importer,120.55,94.44489896097524,84.64,3.5,17.82,101.17
+France,2023-05,Advanced_Net_Importer,Advanced,Net_Importer,120.46,95.32847909678478,75.47,3.75,17.64,101.05
+France,2023-06,Advanced_Net_Importer,Advanced,Net_Importer,120.71,106.7168452916633,74.84,3.75,14.0,101.5
+France,2023-07,Advanced_Net_Importer,Advanced,Net_Importer,120.77,94.54307453162076,80.11,4.0,13.93,102.36
+France,2023-08,Advanced_Net_Importer,Advanced,Net_Importer,122.1,77.55870080994848,86.15,4.25,15.85,102.35
+France,2023-09,Advanced_Net_Importer,Advanced,Net_Importer,121.4,100.1390820584145,93.72,4.25,15.17,101.99
+France,2023-10,Advanced_Net_Importer,Advanced,Net_Importer,121.61,104.6551583081077,90.6,4.5,18.89,101.83
+France,2023-11,Advanced_Net_Importer,Advanced,Net_Importer,121.32,106.3241430090813,82.94,4.5,14.02,102.26
+France,2023-12,Advanced_Net_Importer,Advanced,Net_Importer,121.49,97.7828683629224,77.63,4.5,12.72,102.2
+France,2024-01,Advanced_Net_Importer,Advanced,Net_Importer,121.2,106.1277918677903,80.12,4.5,13.39,102.34
+France,2024-02,Advanced_Net_Importer,Advanced,Net_Importer,122.35,102.3971201832611,83.48,4.5,13.98,102.23
+France,2024-03,Advanced_Net_Importer,Advanced,Net_Importer,122.65,106.4223185797268,85.41,4.5,13.79,102.62
+France,2024-04,Advanced_Net_Importer,Advanced,Net_Importer,123.41,100.9244866235785,89.94,4.5,16.14,102.5
+France,2024-05,Advanced_Net_Importer,Advanced,Net_Importer,123.59,92.87408983064716,81.75,4.5,13.06,102.68
+France,2024-06,Advanced_Net_Importer,Advanced,Net_Importer,123.78,99.74637977583248,82.25,4.25,12.67,102.59
+France,2024-07,Advanced_Net_Importer,Advanced,Net_Importer,124.03,101.022662194224,85.15,4.25,14.37,102.92
+France,2024-08,Advanced_Net_Importer,Advanced,Net_Importer,124.77,77.65687638059399,80.36,4.25,19.31,103.04
+France,2024-09,Advanced_Net_Importer,Advanced,Net_Importer,123.15,98.66644849873192,74.02,3.65,17.66,103.01
+France,2024-10,Advanced_Net_Importer,Advanced,Net_Importer,123.54,106.0296162971448,75.63,3.65,19.96,102.65
+France,2024-11,Advanced_Net_Importer,Advanced,Net_Importer,123.36,101.8080667593881,74.35,3.4,16.02,102.26
+France,2024-12,Advanced_Net_Importer,Advanced,Net_Importer,123.62,101.5135400474516,73.86,3.15,15.87,101.95
+France,2025-01,Advanced_Net_Importer,Advanced,Net_Importer,123.42,105.2442117319807,79.27,3.15,16.76,101.77
+France,2025-02,Advanced_Net_Importer,Advanced,Net_Importer,123.49,100.433608770351,75.44,2.9,16.97,101.63
+France,2025-03,Advanced_Net_Importer,Advanced,Net_Importer,123.73,106.9131964329543,72.73,2.65,21.84,102.83
+France,2025-04,Advanced_Net_Importer,Advanced,Net_Importer,124.55,99.25550192260496,68.13,2.65,31.97,104.24
+France,2025-05,Advanced_Net_Importer,Advanced,Net_Importer,124.32,91.4014562709646,64.45,2.4,20.46,103.92
+France,2025-06,Advanced_Net_Importer,Advanced,Net_Importer,124.85,101.8080667593881,71.44,2.15,18.4,104.55
+France,2025-07,Advanced_Net_Importer,Advanced,Net_Importer,125.2,101.022662194224,71.04,2.15,16.38,105.16
+France,2025-08,Advanced_Net_Importer,Advanced,Net_Importer,125.8,75.88971610897491,67.87,2.15,15.75,105.15
+France,2025-09,Advanced_Net_Importer,Advanced,Net_Importer,124.47,102.4952957539066,67.99,2.15,15.79,105.39
+France,2025-10,Advanced_Net_Importer,Advanced,Net_Importer,124.58,107.3058987155363,64.54,2.15,18.09,105.2
+France,2025-11,Advanced_Net_Importer,Advanced,Net_Importer,124.33,103.0843491777796,63.8,2.15,19.77,105.11
+France,2025-12,Advanced_Net_Importer,Advanced,Net_Importer,124.43,105.0478605906897,62.54,2.15,15.55,105.41
+France,2026-01,Advanced_Net_Importer,Advanced,Net_Importer,124.43,105.3423873026262,66.6,2.15,16.18,105.23
+France,2026-02,Advanced_Net_Importer,Advanced,Net_Importer,124.43,105.3423873026262,70.89,2.15,19.21,105.21
+France,2026-03,Advanced_Net_Importer,Advanced,Net_Importer,124.43,105.3423873026262,103.13,2.15,25.6,105.21
+Germany,2023-01,Advanced_Net_Importer,Advanced,Net_Importer,122.6,99.0102478759744,82.5,2.5,20.17,100.02
+Germany,2023-02,Advanced_Net_Importer,Advanced,Net_Importer,123.8,103.109398265744,82.59,3.0,20.12,100.06
+Germany,2023-03,Advanced_Net_Importer,Advanced,Net_Importer,125.1,119.6111062450731,78.43,3.5,21.64,100.3
+Germany,2023-04,Advanced_Net_Importer,Advanced,Net_Importer,125.8,95.54173600770775,84.64,3.5,17.82,101.13
+Germany,2023-05,Advanced_Net_Importer,Advanced,Net_Importer,125.6,103.109398265744,75.47,3.75,17.64,100.98
+Germany,2023-06,Advanced_Net_Importer,Advanced,Net_Importer,126.1,107.6289743365157,74.84,3.75,14.0,101.49
+Germany,2023-07,Advanced_Net_Importer,Advanced,Net_Importer,126.7,96.80301305071382,80.11,4.0,13.93,102.54
+Germany,2023-08,Advanced_Net_Importer,Advanced,Net_Importer,127.2,95.85705526845928,86.15,4.25,15.85,102.6
+Germany,2023-09,Advanced_Net_Importer,Advanced,Net_Importer,127.4,103.109398265744,93.72,4.25,15.17,102.28
+Germany,2023-10,Advanced_Net_Importer,Advanced,Net_Importer,127.2,100.797057020233,90.6,4.5,18.89,102.06
+Germany,2023-11,Advanced_Net_Importer,Advanced,Net_Importer,126.3,108.8902513795217,82.94,4.5,14.02,102.42
+Germany,2023-12,Advanced_Net_Importer,Advanced,Net_Importer,126.6,93.3345011824472,77.63,4.5,12.72,102.32
+Germany,2024-01,Advanced_Net_Importer,Advanced,Net_Importer,126.4,95.33152316720675,80.12,4.5,13.39,102.52
+Germany,2024-02,Advanced_Net_Importer,Advanced,Net_Importer,127.2,100.5868441797319,83.48,4.5,13.98,102.46
+Germany,2024-03,Advanced_Net_Importer,Advanced,Net_Importer,128.0,101.7430148024875,85.41,4.5,13.79,102.92
+Germany,2024-04,Advanced_Net_Importer,Advanced,Net_Importer,128.8,102.1634404834895,89.94,4.5,16.14,102.81
+Germany,2024-05,Advanced_Net_Importer,Advanced,Net_Importer,129.1,92.49364982044315,81.75,4.5,13.06,102.96
+Germany,2024-06,Advanced_Net_Importer,Advanced,Net_Importer,129.3,98.69492861522288,82.25,4.25,12.67,102.89
+Germany,2024-07,Advanced_Net_Importer,Advanced,Net_Importer,130.0,98.37960935447136,85.15,4.25,14.37,103.31
+Germany,2024-08,Advanced_Net_Importer,Advanced,Net_Importer,129.8,89.44556363317857,80.36,4.25,19.31,103.41
+Germany,2024-09,Advanced_Net_Importer,Advanced,Net_Importer,129.7,98.8000350354734,74.02,3.65,17.66,103.37
+Germany,2024-10,Advanced_Net_Importer,Advanced,Net_Importer,130.2,100.0613120784794,75.63,3.65,19.96,103.05
+Germany,2024-11,Advanced_Net_Importer,Advanced,Net_Importer,129.3,102.1634404834895,74.35,3.4,16.02,102.68
+Germany,2024-12,Advanced_Net_Importer,Advanced,Net_Importer,130.2,88.70981869142504,73.86,3.15,15.87,102.31
+Germany,2025-01,Advanced_Net_Importer,Advanced,Net_Importer,129.9,91.54769203818864,79.27,3.15,16.76,102.09
+Germany,2025-02,Advanced_Net_Importer,Advanced,Net_Importer,130.5,94.38556538495224,75.44,2.9,16.97,101.82
+Germany,2025-03,Advanced_Net_Importer,Advanced,Net_Importer,131.0,103.9502496277481,72.73,2.65,21.84,103.17
+Germany,2025-04,Advanced_Net_Importer,Advanced,Net_Importer,131.6,95.9621616887098,68.13,2.65,31.97,104.84
+Germany,2025-05,Advanced_Net_Importer,Advanced,Net_Importer,131.8,94.91109748620477,64.45,2.4,20.46,104.4
+Germany,2025-06,Advanced_Net_Importer,Advanced,Net_Importer,131.9,94.38556538495224,71.44,2.15,18.4,105.1
+Germany,2025-07,Advanced_Net_Importer,Advanced,Net_Importer,132.4,100.3766313392309,71.04,2.15,16.38,105.77
+Germany,2025-08,Advanced_Net_Importer,Advanced,Net_Importer,132.5,83.03407199789784,67.87,2.15,15.75,105.75
+Germany,2025-09,Advanced_Net_Importer,Advanced,Net_Importer,132.8,101.5328019619865,67.99,2.15,15.79,105.99
+Germany,2025-10,Advanced_Net_Importer,Advanced,Net_Importer,133.2,101.217482701235,64.54,2.15,18.09,105.72
+Germany,2025-11,Advanced_Net_Importer,Advanced,Net_Importer,132.6,102.058334063239,63.8,2.15,19.77,105.58
+Germany,2025-12,Advanced_Net_Importer,Advanced,Net_Importer,132.8,89.97109573443107,62.54,2.15,15.55,105.91
+Germany,2026-01,Advanced_Net_Importer,Advanced,Net_Importer,132.8,89.97109573443107,66.6,2.15,16.18,105.66
+Germany,2026-02,Advanced_Net_Importer,Advanced,Net_Importer,132.8,89.97109573443107,70.89,2.15,19.21,105.58
+Germany,2026-03,Advanced_Net_Importer,Advanced,Net_Importer,132.8,89.97109573443107,103.13,2.15,25.6,105.58
+Italy,2023-01,Advanced_Net_Importer,Advanced,Net_Importer,119.3,91.26651627457304,82.5,2.5,20.17,100.87
+Italy,2023-02,Advanced_Net_Importer,Advanced,Net_Importer,119.4,97.4540766999678,82.59,3.0,20.12,100.91
+Italy,2023-03,Advanced_Net_Importer,Advanced,Net_Importer,120.3,109.4424750241702,78.43,3.5,21.64,101.14
+Italy,2023-04,Advanced_Net_Importer,Advanced,Net_Importer,121.3,86.43248469223334,84.64,3.5,17.82,101.95
+Italy,2023-05,Advanced_Net_Importer,Advanced,Net_Importer,121.7,103.1582339671286,75.47,3.75,17.64,101.8
+Italy,2023-06,Advanced_Net_Importer,Advanced,Net_Importer,121.8,99.38768933290368,74.84,3.75,14.0,102.37
+Italy,2023-07,Advanced_Net_Importer,Advanced,Net_Importer,119.9,99.67773122784406,80.11,4.0,13.93,103.39
+Italy,2023-08,Advanced_Net_Importer,Advanced,Net_Importer,120.1,64.67934257170482,86.15,4.25,15.85,103.41
+Italy,2023-09,Advanced_Net_Importer,Advanced,Net_Importer,122.1,98.42088301643574,93.72,4.25,15.17,103.05
+Italy,2023-10,Advanced_Net_Importer,Advanced,Net_Importer,122.2,101.7080244924267,90.6,4.5,18.89,102.89
+Italy,2023-11,Advanced_Net_Importer,Advanced,Net_Importer,121.5,97.5507573316146,82.94,4.5,14.02,103.31
+Italy,2023-12,Advanced_Net_Importer,Advanced,Net_Importer,121.7,77.92458910731553,77.63,4.5,12.72,103.33
+Italy,2024-01,Advanced_Net_Importer,Advanced,Net_Importer,120.4,90.68643248469228,80.12,4.5,13.39,103.5
+Italy,2024-02,Advanced_Net_Importer,Advanced,Net_Importer,120.4,97.93747985820175,83.48,4.5,13.98,103.42
+Italy,2024-03,Advanced_Net_Importer,Advanced,Net_Importer,121.8,97.84079922655498,85.41,4.5,13.79,103.85
+Italy,2024-04,Advanced_Net_Importer,Advanced,Net_Importer,122.4,90.78311311633908,89.94,4.5,16.14,103.73
+Italy,2024-05,Advanced_Net_Importer,Advanced,Net_Importer,122.7,99.0976474379633,81.75,4.5,13.06,103.91
+Italy,2024-06,Advanced_Net_Importer,Advanced,Net_Importer,122.9,92.81340638092172,82.25,4.25,12.67,103.83
+Italy,2024-07,Advanced_Net_Importer,Advanced,Net_Importer,121.8,101.4179825974863,85.15,4.25,14.37,104.19
+Italy,2024-08,Advanced_Net_Importer,Advanced,Net_Importer,121.6,59.84531098936515,80.36,4.25,19.31,104.4
+Italy,2024-09,Advanced_Net_Importer,Advanced,Net_Importer,123.0,93.68353206574288,74.02,3.65,17.66,104.44
+Italy,2024-10,Advanced_Net_Importer,Advanced,Net_Importer,123.4,100.3544956493716,75.63,3.65,19.96,104.11
+Italy,2024-11,Advanced_Net_Importer,Advanced,Net_Importer,123.3,92.81340638092172,74.35,3.4,16.02,103.71
+Italy,2024-12,Advanced_Net_Importer,Advanced,Net_Importer,123.4,77.15114405414118,73.86,3.15,15.87,103.41
+Italy,2025-01,Advanced_Net_Importer,Advanced,Net_Importer,122.4,87.30261037705449,79.27,3.15,16.76,103.21
+Italy,2025-02,Advanced_Net_Importer,Advanced,Net_Importer,122.5,91.749919432807,75.44,2.9,16.97,103.05
+Italy,2025-03,Advanced_Net_Importer,Advanced,Net_Importer,124.4,97.4540766999678,72.73,2.65,21.84,104.3
+Italy,2025-04,Advanced_Net_Importer,Advanced,Net_Importer,124.9,89.52626490493074,68.13,2.65,31.97,105.75
+Italy,2025-05,Advanced_Net_Importer,Advanced,Net_Importer,124.8,95.23042217209156,64.45,2.4,20.46,105.46
+Italy,2025-06,Advanced_Net_Importer,Advanced,Net_Importer,125.1,92.13664195939415,71.44,2.15,18.4,106.11
+Italy,2025-07,Advanced_Net_Importer,Advanced,Net_Importer,123.9,102.2881082823075,71.04,2.15,16.38,106.73
+Italy,2025-08,Advanced_Net_Importer,Advanced,Net_Importer,123.6,56.26812761843379,67.87,2.15,15.75,106.74
+Italy,2025-09,Advanced_Net_Importer,Advanced,Net_Importer,125.2,97.93747985820175,67.99,2.15,15.79,107.02
+Italy,2025-10,Advanced_Net_Importer,Advanced,Net_Importer,125.0,100.0644537544312,64.54,2.15,18.09,106.79
+Italy,2025-11,Advanced_Net_Importer,Advanced,Net_Importer,124.7,94.07025459233004,63.8,2.15,19.77,106.69
+Italy,2025-12,Advanced_Net_Importer,Advanced,Net_Importer,124.9,79.6648404769578,62.54,2.15,15.55,107.02
+Italy,2026-01,Advanced_Net_Importer,Advanced,Net_Importer,124.9,79.6648404769578,66.6,2.15,16.18,106.86
+Italy,2026-02,Advanced_Net_Importer,Advanced,Net_Importer,124.9,79.6648404769578,70.89,2.15,19.21,106.85
+Italy,2026-03,Advanced_Net_Importer,Advanced,Net_Importer,124.9,79.6648404769578,103.13,2.15,25.6,106.85
+Saudi Arabia,2023-01,Emerging_Net_Exporter,Emerging,Net_Exporter,99.1993146234796,113.28338,82.5,4.757948387,20.17,105.91
+Saudi Arabia,2023-02,Emerging_Net_Exporter,Emerging,Net_Exporter,99.12634041502096,112.09091,82.59,4.631894643,20.12,106.56
+Saudi Arabia,2023-03,Emerging_Net_Exporter,Emerging,Net_Exporter,99.19019284742228,114.4691,78.43,4.790632903,21.64,107.08
+Saudi Arabia,2023-04,Emerging_Net_Exporter,Emerging,Net_Exporter,99.5733074418302,112.4348,84.64,4.725077667,17.82,106.35
+Saudi Arabia,2023-05,Emerging_Net_Exporter,Emerging,Net_Exporter,99.76486473903417,109.4512,75.47,4.681689355,17.64,107.17
+Saudi Arabia,2023-06,Emerging_Net_Exporter,Emerging,Net_Exporter,99.95642203623812,110.07641,74.84,4.366418,14.0,108.49
+Saudi Arabia,2023-07,Emerging_Net_Exporter,Emerging,Net_Exporter,100.0476397968114,104.52433,80.11,4.925044194,13.93,108.2
+Saudi Arabia,2023-08,Emerging_Net_Exporter,Emerging,Net_Exporter,100.0750051249834,103.93438,86.15,5.012072609,15.85,109.45
+Saudi Arabia,2023-09,Emerging_Net_Exporter,Emerging,Net_Exporter,100.0841269010408,105.95322,93.72,4.998560952,15.17,110.62
+Saudi Arabia,2023-10,Emerging_Net_Exporter,Emerging,Net_Exporter,100.2118317658434,101.77916,90.6,5.090868636,18.89,111.43
+Saudi Arabia,2023-11,Emerging_Net_Exporter,Emerging,Net_Exporter,100.39426728699,100.3708,82.94,5.264751363,14.02,110.11
+Saudi Arabia,2023-12,Emerging_Net_Exporter,Emerging,Net_Exporter,100.476363271506,102.12515,77.63,5.490251429,12.72,109.15
+Saudi Arabia,2024-01,Emerging_Net_Exporter,Emerging,Net_Exporter,100.7408947771686,102.5797,80.12,5.48026913,13.39,109.58
+Saudi Arabia,2024-02,Emerging_Net_Exporter,Emerging,Net_Exporter,100.9233302983153,105.0569,83.48,5.305234762,13.98,110.3
+Saudi Arabia,2024-03,Emerging_Net_Exporter,Emerging,Net_Exporter,100.8229907616846,104.4467,85.41,5.227170476,13.79,110.31
+Saudi Arabia,2024-04,Emerging_Net_Exporter,Emerging,Net_Exporter,101.1513746997485,105.2665,89.94,5.070144091,16.14,111.4
+Saudi Arabia,2024-05,Emerging_Net_Exporter,Emerging,Net_Exporter,101.3155666687805,107.2601,81.75,5.077583478,13.06,111.16
+Saudi Arabia,2024-06,Emerging_Net_Exporter,Emerging,Net_Exporter,101.4523933096405,103.6878,82.25,5.1157955,12.67,111.54
+Saudi Arabia,2024-07,Emerging_Net_Exporter,Emerging,Net_Exporter,101.5800981744431,104.6569,85.15,5.266245652,14.37,111.37
+Saudi Arabia,2024-08,Emerging_Net_Exporter,Emerging,Net_Exporter,101.6530723829018,106.5659,80.36,5.638119091,19.31,109.79
+Saudi Arabia,2024-09,Emerging_Net_Exporter,Emerging,Net_Exporter,101.7807772477044,106.2481,74.02,5.844510333,17.66,108.82
+Saudi Arabia,2024-10,Emerging_Net_Exporter,Emerging,Net_Exporter,102.100039409711,106.9941,75.63,5.436320968,19.96,109.9
+Saudi Arabia,2024-11,Emerging_Net_Exporter,Emerging,Net_Exporter,102.3828144674883,103.6418,74.35,5.217771,16.02,111.7
+Saudi Arabia,2024-12,Emerging_Net_Exporter,Emerging,Net_Exporter,102.4193015717176,104.3215,73.86,5.280200645,15.87,112.76
+Saudi Arabia,2025-01,Emerging_Net_Exporter,Emerging,Net_Exporter,102.7294419576669,103.58312,79.27,5.411752258,16.76,113.56
+Saudi Arabia,2025-02,Emerging_Net_Exporter,Emerging,Net_Exporter,102.9027557027562,105.272,75.44,5.401772143,16.97,112.98
+Saudi Arabia,2025-03,Emerging_Net_Exporter,Emerging,Net_Exporter,103.1672872084188,108.2194,72.73,5.49860129,21.84,111.74
+Saudi Arabia,2025-04,Emerging_Net_Exporter,Emerging,Net_Exporter,103.4956711464827,105.5339,68.13,5.508164333,31.97,110.54
+Saudi Arabia,2025-05,Emerging_Net_Exporter,Emerging,Net_Exporter,103.5686453549414,108.8233,64.45,5.353532903,20.46,109.55
+Saudi Arabia,2025-06,Emerging_Net_Exporter,Emerging,Net_Exporter,103.751080876088,110.1678,71.44,5.420398333,18.4,108.71
+Saudi Arabia,2025-07,Emerging_Net_Exporter,Emerging,Net_Exporter,103.751080876088,112.6818,71.04,5.592953548,16.38,108.49
+Saudi Arabia,2025-08,Emerging_Net_Exporter,Emerging,Net_Exporter,103.894937967031,113.9242,67.87,5.696709677,15.75,108.89
+Saudi Arabia,2025-09,Emerging_Net_Exporter,Emerging,Net_Exporter,103.83056832914,116.3848,67.99,5.768341667,15.79,108.54
+Saudi Arabia,2025-10,Emerging_Net_Exporter,Emerging,Net_Exporter,104.12271419106,115.1325,64.54,5.853349355,18.09,109.13
+Saudi Arabia,2025-11,Emerging_Net_Exporter,Emerging,Net_Exporter,104.196719734602,113.7678,63.8,5.678458667,19.77,109.61
+Saudi Arabia,2025-12,Emerging_Net_Exporter,Emerging,Net_Exporter,104.304135169088,114.9127,62.54,5.825924194,15.55,108.99
+Saudi Arabia,2026-01,Emerging_Net_Exporter,Emerging,Net_Exporter,104.466865674647,114.7581,66.6,5.82988871,16.18,108.61
+Saudi Arabia,2026-02,Emerging_Net_Exporter,Emerging,Net_Exporter,104.503923693459,114.5896,70.89,5.670910357,19.21,107.95
+Saudi Arabia,2026-03,Emerging_Net_Exporter,Emerging,Net_Exporter,104.808338622761,114.5896,103.13,5.670910357,25.6,107.95
+Turkey,2023-01,Emerging_Net_Importer,Emerging,Net_Importer,461.35,193.0341811112911,82.5,9.75,20.17,38.58
+Turkey,2023-02,Emerging_Net_Importer,Emerging,Net_Importer,475.88,174.1778713753443,82.59,9.75,20.12,38.72
+Turkey,2023-03,Emerging_Net_Importer,Emerging,Net_Importer,486.83,214.6120200874777,78.43,9.75,21.64,38.58
+Turkey,2023-04,Emerging_Net_Importer,Emerging,Net_Importer,498.51,184.0920136076462,84.64,9.75,17.82,37.42
+Turkey,2023-05,Emerging_Net_Importer,Emerging,Net_Importer,498.7,212.4736756844322,75.47,15.75,17.64,36.84
+Turkey,2023-06,Emerging_Net_Importer,Emerging,Net_Importer,518.27,197.1164749716508,74.84,15.75,14.0,30.81
+Turkey,2023-07,Emerging_Net_Importer,Emerging,Net_Importer,567.63,208.0025919326098,80.11,15.75,13.93,27.35
+Turkey,2023-08,Emerging_Net_Importer,Emerging,Net_Importer,619.09,212.4736756844322,86.15,15.75,15.85,27.32
+Turkey,2023-09,Emerging_Net_Importer,Emerging,Net_Importer,648.45,217.3335493277175,93.72,30.75,15.17,27.7
+Turkey,2023-10,Emerging_Net_Importer,Emerging,Net_Importer,670.67,222.776607808197,90.6,30.75,18.89,27.09
+Turkey,2023-11,Emerging_Net_Importer,Emerging,Net_Importer,692.75,216.7503644905233,82.94,35.75,14.02,25.81
+Turkey,2023-12,Emerging_Net_Importer,Emerging,Net_Importer,713.14,236.1898590636644,77.63,43.25,12.72,25.15
+Turkey,2024-01,Emerging_Net_Importer,Emerging,Net_Importer,760.88,196.3388951887251,80.12,43.25,13.39,24.37
+Turkey,2024-02,Emerging_Net_Importer,Emerging,Net_Importer,795.41,200.4211890490847,83.48,43.25,13.98,24.01
+Turkey,2024-03,Emerging_Net_Importer,Emerging,Net_Importer,820.57,215.7783897618662,85.41,43.25,13.79,23.01
+Turkey,2024-04,Emerging_Net_Importer,Emerging,Net_Importer,846.64,177.0937955613154,89.94,50.75,16.14,23.09
+Turkey,2024-05,Emerging_Net_Importer,Emerging,Net_Importer,875.21,218.1111291106431,81.75,50.75,13.06,23.0
+Turkey,2024-06,Emerging_Net_Importer,Emerging,Net_Importer,889.52,180.204114693018,82.25,50.75,12.67,22.83
+Turkey,2024-07,Emerging_Net_Importer,Emerging,Net_Importer,918.24,211.5017009557752,85.15,50.75,14.37,22.51
+Turkey,2024-08,Emerging_Net_Importer,Emerging,Net_Importer,940.91,200.4211890490847,80.36,50.75,19.31,21.69
+Turkey,2024-09,Emerging_Net_Importer,Emerging,Net_Importer,969.11,208.1969868783412,74.02,50.75,17.66,21.28
+Turkey,2024-10,Emerging_Net_Importer,Emerging,Net_Importer,996.99,216.5559695447919,75.63,50.75,19.96,21.48
+Turkey,2024-11,Emerging_Net_Importer,Emerging,Net_Importer,1019.26,218.8887088935688,74.35,50.75,16.02,21.82
+Turkey,2024-12,Emerging_Net_Importer,Emerging,Net_Importer,1029.82,255.0461687996112,73.86,48.25,15.87,21.73
+Turkey,2025-01,Emerging_Net_Importer,Emerging,Net_Importer,1081.77,198.8660294832335,79.27,48.25,16.76,21.58
+Turkey,2025-02,Emerging_Net_Importer,Emerging,Net_Importer,1106.41,189.9238619795885,75.44,48.25,16.97,20.99
+Turkey,2025-03,Emerging_Net_Importer,Emerging,Net_Importer,1133.49,210.1409363356553,72.73,43.25,21.84,19.95
+Turkey,2025-04,Emerging_Net_Importer,Emerging,Net_Importer,1167.42,198.8660294832335,68.13,43.25,31.97,19.01
+Turkey,2025-05,Emerging_Net_Importer,Emerging,Net_Importer,1185.16,221.6102381338085,64.45,43.25,20.46,18.5
+Turkey,2025-06,Emerging_Net_Importer,Emerging,Net_Importer,1201.39,196.9220800259193,71.44,43.25,18.4,17.94
+Turkey,2025-07,Emerging_Net_Importer,Emerging,Net_Importer,1226.16,222.3878179167342,71.04,43.25,16.38,17.46
+Turkey,2025-08,Emerging_Net_Importer,Emerging,Net_Importer,1251.14,210.1409363356553,67.87,43.25,15.75,17.28
+Turkey,2025-09,Emerging_Net_Importer,Emerging,Net_Importer,1291.88,220.8326583508829,67.99,41.25,15.79,16.98
+Turkey,2025-10,Emerging_Net_Importer,Emerging,Net_Importer,1325.08,221.6102381338085,64.54,41.25,18.09,16.86
+Turkey,2025-11,Emerging_Net_Importer,Emerging,Net_Importer,1336.38,217.7223392191803,63.8,41.25,19.77,16.76
+Turkey,2025-12,Emerging_Net_Importer,Emerging,Net_Importer,1348.17,217.7223392191803,62.54,38.75,15.55,16.44
+Turkey,2026-01,Emerging_Net_Importer,Emerging,Net_Importer,1348.17,217.7223392191803,66.6,38.75,16.17,16.17
+Turkey,2026-02,Emerging_Net_Importer,Emerging,Net_Importer,1348.17,217.7223392191803,70.89,38.75,19.21,15.86
+Turkey,2026-03,Emerging_Net_Importer,Emerging,Net_Importer,1348.17,217.7223392191803,103.13,38.75,25.6,15.86
+United States,2023-01,Advanced_Net_Exporter,Advanced,Net_Exporter,137.199015846883,100.505,82.5,4.33,20.17,102.35
+United States,2023-02,Advanced_Net_Exporter,Advanced,Net_Exporter,137.9648759146181,100.6416,82.59,4.57,20.12,102.69
+United States,2023-03,Advanced_Net_Exporter,Advanced,Net_Exporter,138.4216403622014,101.0205,78.43,4.65,21.64,103.27
+United States,2023-04,Advanced_Net_Exporter,Advanced,Net_Exporter,139.1219207953938,101.253,84.64,4.83,17.82,102.17
+United States,2023-05,Advanced_Net_Exporter,Advanced,Net_Exporter,139.4722903114115,100.9286,75.47,5.06,17.64,102.71
+United States,2023-06,Advanced_Net_Exporter,Advanced,Net_Exporter,139.9226343751935,100.1196,74.84,5.08,14.0,103.06
+United States,2023-07,Advanced_Net_Exporter,Advanced,Net_Exporter,140.1895389017933,100.9067,80.11,5.12,13.93,102.29
+United States,2023-08,Advanced_Net_Exporter,Advanced,Net_Exporter,140.8017683571384,100.8393,86.15,5.33,15.85,103.75
+United States,2023-09,Advanced_Net_Exporter,Advanced,Net_Exporter,141.1516792743132,101.0211,93.72,5.33,15.17,105.17
+United States,2023-10,Advanced_Net_Exporter,Advanced,Net_Exporter,141.0975646108445,100.4689,90.6,5.33,18.89,106.67
+United States,2023-11,Advanced_Net_Exporter,Advanced,Net_Exporter,140.8132333282123,100.8639,82.94,5.33,14.02,104.82
+United States,2023-12,Advanced_Net_Exporter,Advanced,Net_Exporter,140.673360681111,100.6031,77.63,5.33,12.72,103.49
+United States,2024-01,Advanced_Net_Exporter,Advanced,Net_Exporter,141.439679347689,99.2223,80.12,5.33,13.39,103.77
+United States,2024-02,Advanced_Net_Exporter,Advanced,Net_Exporter,142.3151445388903,100.285,83.48,5.33,13.98,104.52
+United States,2024-03,Advanced_Net_Exporter,Advanced,Net_Exporter,143.2350938178583,100.4575,85.41,5.33,13.79,104.27
+United States,2024-04,Advanced_Net_Exporter,Advanced,Net_Exporter,143.7927500108917,100.2434,89.94,5.33,16.14,105.4
+United States,2024-05,Advanced_Net_Exporter,Advanced,Net_Exporter,144.0316800080713,100.863,81.75,5.33,13.06,105.21
+United States,2024-06,Advanced_Net_Exporter,Advanced,Net_Exporter,144.0802914854246,100.894,82.25,5.33,12.67,106.77
+United States,2024-07,Advanced_Net_Exporter,Advanced,Net_Exporter,144.2476800631032,99.9757,85.15,5.33,14.37,106.54
+United States,2024-08,Advanced_Net_Exporter,Advanced,Net_Exporter,144.3650813668997,100.4309,80.36,5.33,19.31,105.65
+United States,2024-09,Advanced_Net_Exporter,Advanced,Net_Exporter,144.596673782592,99.8084,74.02,5.13,17.66,104.95
+United States,2024-10,Advanced_Net_Exporter,Advanced,Net_Exporter,144.7631451625847,99.4695,75.63,4.83,19.96,106.26
+United States,2024-11,Advanced_Net_Exporter,Advanced,Net_Exporter,144.6847247604394,99.2925,74.35,4.64,16.02,108.64
+United States,2024-12,Advanced_Net_Exporter,Advanced,Net_Exporter,144.7360878308504,100.3273,73.86,4.48,15.87,109.76
+United States,2025-01,Advanced_Net_Exporter,Advanced,Net_Exporter,145.6835530403957,100.0647,79.27,4.33,16.76,110.79
+United States,2025-02,Advanced_Net_Exporter,Advanced,Net_Exporter,146.3306360078053,101.0993,75.44,4.33,16.97,109.91
+United States,2025-03,Advanced_Net_Exporter,Advanced,Net_Exporter,146.6594513782042,101.0404,72.73,4.33,21.84,108.57
+United States,2025-04,Advanced_Net_Exporter,Advanced,Net_Exporter,147.1162158257875,101.1279,68.13,4.33,31.97,106.99
+United States,2025-05,Advanced_Net_Exporter,Advanced,Net_Exporter,147.4234770505674,100.9655,64.45,4.33,20.46,105.41
+United States,2025-06,Advanced_Net_Exporter,Advanced,Net_Exporter,147.9261013824462,101.4785,71.44,4.33,18.4,104.12
+United States,2025-07,Advanced_Net_Exporter,Advanced,Net_Exporter,148.1494390189653,101.894,71.04,4.33,16.38,103.64
+United States,2025-08,Advanced_Net_Exporter,Advanced,Net_Exporter,148.5750187452277,101.6247,67.87,4.33,15.75,104.08
+United States,2025-09,Advanced_Net_Exporter,Advanced,Net_Exporter,148.9529041918227,101.668,67.99,4.22,15.79,103.55
+United States,2025-10,Advanced_Net_Exporter,Advanced,Net_Exporter,148.79743918406092,101.2195,64.54,4.09,18.09,104.15
+United States,2025-11,Advanced_Net_Exporter,Advanced,Net_Exporter,148.6419741762991,101.081,63.8,3.88,19.77,104.6
+United States,2025-12,Advanced_Net_Exporter,Advanced,Net_Exporter,148.6107894549782,101.6113,62.54,3.72,15.55,103.56
+United States,2026-01,Advanced_Net_Exporter,Advanced,Net_Exporter,149.1601908688384,101.5954,66.6,3.64,16.18,102.78
+United States,2026-02,Advanced_Net_Exporter,Advanced,Net_Exporter,149.8632228950886,102.344,70.89,3.64,19.21,101.64
+United States,2026-03,Advanced_Net_Exporter,Advanced,Net_Exporter,151.4352997287388,101.7898,103.13,3.64,25.6,101.64

@@ -1,0 +1,6 @@
+IyBSIGhpc3RvcnkgJiBkYXRhCi5SaGlzdG9yeQouUkRhdGEKLlJkYXRhCi5SZGF0YS50bXAKCiMgUlN0dWRpbyBwcm9qZWN0IGZpbGVzCi5ScHJvai51c2VyLwouUnByb2oKCiMgT1MgZmlsZXMKLkRTX1N0b3JlCi5EU19TdG9yZT8KVGh1bWJzLmRiCgojIFRlbXBvcmFyeSBmaWxlcwoqLnRtcAoqLmJhawoqfgoKIyBSZW5kZXJlZCBvdXRwdXQgKHVuY29tbWVudCBpZiBub3QgdHJhY2tpbmcgUERGcy9IVE1Mcykk
+# *.pdf
+# *.html
+
+# Large data files (uncomment if needed)
+# *.csv

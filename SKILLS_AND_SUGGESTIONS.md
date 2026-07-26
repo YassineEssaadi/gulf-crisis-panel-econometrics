@@ -25,20 +25,6 @@
 
 ---
 
-## 🏷️ Suggested GitHub Repository Names
-
-| Name | Style | Notes |
-|---|---|---|
-| `gulf-crisis-panel-econometrics` | Descriptive | ✅ Recommended — clear and professional |
-| `eu3-oil-shock-analysis` | Concise | Good alternative |
-| `panel-data-macro-2026` | Generic | Less specific |
-| `cpi-ipi-gulf-crisis-r` | Technical | Highlights tools used |
-| `exchange-rate-pass-through-eu` | Topic-focused | Highlights key finding |
-
-**Recommended:** `gulf-crisis-panel-econometrics`
-
----
-
 ## 📝 GitHub Repository Description
 
 > Panel data econometric analysis of the 2026 Gulf Crisis macroeconomic impact on France, Germany & Italy. POLS/FE/RE/TWFE models + ARIMA forecasting in R. Tunis Business School — Advanced Econometrics 2026.

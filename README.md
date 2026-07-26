@@ -47,9 +47,10 @@ Using a **Panel Data Econometrics** approach combined with **ARIMA forecasting**
 │   ├── main_panel_full.csv         # EU3 dataset (France, Germany, Italy)
 │   └── panel_data_6country.csv     # Supplementary dataset (EU3 + US, SA, TR)
 ├── scripts/
-│   └── eu3_analysis_hybrid_FINAL.R # Main R script (Panel regressions, ARIMA, plots)
+│   └── eu3_analysis_hybrid.R # Main R script (Panel regressions, ARIMA, plots)
 ├── report/
-│   ├── EU3_Methodology_Report_FINAL.docx # Detailed methodology document
+│   ├── EU3_Methodology_Report.docx # Detailed methodology document
+│   └── EU3_Econometrics_Report.pdf  # Full econometrics report (25 pages, 23 figures)
 │   └── README.md                  # Link to download the full PDF report
 ├── README.md                       # Project overview
 └── LICENSE                         # MIT License
@@ -60,7 +61,7 @@ Using a **Panel Data Econometrics** approach combined with **ARIMA forecasting**
    ```bash
    git clone https://github.com/YassineEssaadi/gulf-crisis-panel-econometrics.git
    ```
-2. Open `scripts/eu3_analysis_hybrid_FINAL.R` in RStudio.
+2. Open `scripts/eu3_analysis_hybrid.R` in RStudio.
 3. Ensure the required packages are installed (`dplyr`, `plm`, `forecast`, `ggplot2`, `stargazer`, etc.). *Note: Do not load `plyr` as it conflicts with `dplyr`.*
 4. Set your working directory to the project root.
 5. Run the script to reproduce the panel regressions, ARIMA forecasts, and generate the 23 analytical figures.
